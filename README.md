@@ -3,6 +3,8 @@
 Klikalny prototyp konkursowy na **mObywatel Challenge 2026** ([mobywatel.ai](https://mobywatel.ai)).
 Jedna sytuacja życiowa – przeprowadzka – zamiast dziesięciu osobnych spraw w różnych urzędach.
 
+**▶ Prototyp: https://tsarumar.github.io/przeprowadzka-bez-chaosu/**
+
 > Prototyp koncepcyjny. Nie jest oficjalną aplikacją mObywatel ani usługą administracji publicznej. Nie łączy się z żadnym rejestrem i niczego nie wysyła. Wszystkie osoby, adresy i numery są fikcyjne.
 
 ## Co pokazuje

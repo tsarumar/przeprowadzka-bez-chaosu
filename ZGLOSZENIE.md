@@ -14,8 +14,8 @@ Gotowe teksty do formularza na https://mobywatel.ai (sekcja „Zgłoś”). Term
 | Kto zgłasza | Uczniowie lub studenci |
 | Tytuł koncepcji * | Przeprowadzka bez chaosu – jedna sytuacja życiowa zamiast dziesięciu spraw |
 | Opis * (maks. 4000 znaków) | tekst poniżej |
-| Link do klikalnego prototypu * | *adres strony z prototypem (https://…)* |
-| Dodatkowy link | *link do repozytorium na GitHubie lub do filmu* |
+| Link do klikalnego prototypu * | https://tsarumar.github.io/przeprowadzka-bez-chaosu/ |
+| Dodatkowy link | https://github.com/tsarumar/przeprowadzka-bez-chaosu (lub link do filmu, jeśli nagrasz) |
 | Polskie modele i technologie | tekst poniżej (pole opcjonalne) |
 | Strona www | puste |
 | Zgody | zaznacz obie, po przeczytaniu zasad |
